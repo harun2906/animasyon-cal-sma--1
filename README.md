@@ -3,5 +3,5 @@
 # What I used in this project?
 - ## html
 - ## css
--position;relative %% absolute
--keyframes(traslatex)
+`position;relative %% absolute`
+`keyframes(traslatex)`
